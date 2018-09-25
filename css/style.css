@@ -1,0 +1,23 @@
+.jumbotron{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 0;
+    min-height: 100vh;
+    color: #fff;
+}
+
+.social li {
+    display: inline-block;
+    margin-left: 1em;
+}
+
+.social{
+    margin: 0!important;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 2rem;
+}
